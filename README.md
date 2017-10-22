@@ -60,7 +60,7 @@ do seu plugin à medida que você os requisitar, seja através de `require(xxxx)
 
 Escolha sim (Y ou y)  para gerar configurações de teste e testes unitários de exemplo para o plugin.
 
-###4. Instale *packages* a partir dos seguintes registros: jspm, GitHub ou npm:
+### 4. Instale *packages* a partir dos seguintes registros: jspm, GitHub ou npm:
 Exemplos:
 ```
 jspm install jquery
@@ -98,11 +98,19 @@ Este comando irá criar um *tagged commit* seguido de *push* para o repositório
 ## License
 
 MIT © [PRODEST](http://prodest.es.gov.br/)
+
 [npm-image]: https://badge.fury.io/js/generator-espm-plugin.svg
+
 [npm-url]: https://badge.fury.io/js/generator-espm-plugin
+
 [travis-image]: https://travis-ci.org/prodest/generator-espm-plugin.svg
+
 [travis-url]: https://travis-ci.org/prodest/generator-espm-plugin
+
 [daviddm-image]: https://david-dm.org/prodest/generator-espm-plugin.svg?theme=shields.io
+
 [daviddm-url]: https://david-dm.org/prodest/generator-espm-plugin
+
 [coveralls-image]: https://coveralls.io/repos/prodest/generator-espm-plugin/badge.svg
+
 [coveralls-url]: https://coveralls.io/r/prodest/generator-espm-plugin
